@@ -60,12 +60,10 @@ main {
 }
 .images img {
     margin: 5px;
+    height: 100%;
     width: 300px;
     object-fit: cover;
     position: relative;
-}
-.dinner img {
-    /* height: 100%; */
 }
 
 .green-box {
